@@ -1,0 +1,88 @@
+.forforum{
+    background-color: whitesmoke;
+    width: 75%;
+    margin: 1.1%;
+    float:right;
+ }
+
+ .createeditforum{
+    width: 20%;
+    float: left;
+ }
+
+
+
+ .inputtitleforum{
+    background-color: aliceblue;
+    border: 2px  black;
+    margin: 20px;
+    padding: 20px;
+ }
+
+ .inputquestionforum{
+    background-color: aliceblue;
+    border: 2px  black;
+    margin: 20px;
+    padding: 20px;
+ }
+
+ .btncreateforum{
+    background-color: orangered;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+ }
+
+ .edittitleforum{
+    background-color: aliceblue;
+    border: 2px  black;
+    margin: 20px;
+    padding: 20px;
+ }
+
+ .editquestionforum{
+    background-color: aliceblue;
+    border: 2px  black;
+    margin: 20px;
+    padding: 20px;
+ }
+
+ .forumtitle{
+    color: black;
+
+ }
+
+ .forumquestion{
+    color: grey;
+ }
+
+ .infobigfor{
+    color: lightgray;
+ }
+
+ .btncommentforum{
+    background-color: orangered;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 5px;
+ }
+
+ .btndeleteforum{
+    background-color: gray;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 5px;
+ }
+
+ .btneditforum{
+    background-color: gray;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 5px;
+ }
+
+
+ 
+
+
+

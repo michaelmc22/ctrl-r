@@ -1,0 +1,52 @@
+ .gamepagedetails{
+    background-color: #fff;
+    width: 75%;
+    margin: 2%;
+    float:right;
+ }
+
+ .gamepageimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+
+.gamepagetitle{
+    color: black;
+    text-align: center;
+    text-transform:uppercase;
+ }
+
+ .gamepagedescription{
+    color: black;
+    text-align: center;
+    padding: 1%;
+ }
+
+ .gamepageage{
+    color: grey;
+    text-align: center;
+
+ }
+
+ .gamepageconsole{
+    color: grey;
+    text-align: center;
+
+ }
+
+ .gamepagepubdev{
+    color: grey;
+    text-align: center;
+
+ }
+
+
+
+ /* <h2 className="gamepagetitle">{games.title}</h2>
+            <img className="gamepageimage" src={games.image} />
+            <h2 className="gamepagedescription">{games.description}</h2>
+            <h2 className="gamepageage">Age Rating: {games.age}</h2>
+            <h2 className="gamepageconsole">Console Availability: {games.console}</h2>
+            <h3 className="gamepagepubdev">Development Studio: {games.dev} Published By: {games.publisher}</h3> */

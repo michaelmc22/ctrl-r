@@ -1,0 +1,93 @@
+.divforbigforum{
+    background-color: whitesmoke;
+    width: 75%;
+    margin: 1.1%;
+    float:right;
+ }
+
+ .createeditdivbigfor{
+    width: 20%;
+    float: left;
+ }
+
+
+
+ .inputtitle{
+    background-color: aliceblue;
+    border: 2px  black;
+    margin: 20px;
+    padding: 20px;
+ }
+
+ .inputquestion{
+    background-color: aliceblue;
+    border: 2px  black;
+    margin: 20px;
+    padding: 20px;
+ }
+
+ .btncreate{
+    background-color: orangered;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+ }
+
+ .edittitle{
+    background-color: aliceblue;
+    border: 2px  black;
+    margin: 20px;
+    padding: 20px;
+ }
+
+ .editquestion{
+    background-color: aliceblue;
+    border: 2px  black;
+    margin: 20px;
+    padding: 20px;
+ }
+
+ .titlebigfor{
+    color: black;
+
+ }
+
+ .questionbigfor{
+    color: grey;
+ }
+
+ .infobigfor{
+    color: lightgray;
+ }
+
+ .commentbigfor{
+    background-color: orangered;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 5px;
+ }
+
+ .deletebigfor{
+    background-color: gray;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 5px;
+ }
+
+ .editbigfor{
+    background-color: gray;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 5px;
+ }
+
+ .titlel{
+    font-weight: bolder;
+    color: #ff7700;
+ }
+
+
+ 
+
+
+
